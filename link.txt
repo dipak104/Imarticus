@@ -1,0 +1,6 @@
+https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart
+https://towardsdatascience.com/shopper-behavior-analysis-de3ff6b696b8
+https://wadya.com/blog/2019/07/24/kaggle-instacart-classification/
+https://github.com/lwadya/kaggle_instacart/blob/master/kaggle_instacart.ipynb
+https://towardsdatascience.com/whats-in-your-customer-s-next-shopping-cart-73d64287ec53
+https://www.kaggle.com/c/instacart-market-basket-analysis/notebooks?sortBy=voteCount&group=everyone&pageSize=20&competitionId=6644
